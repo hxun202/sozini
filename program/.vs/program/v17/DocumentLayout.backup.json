@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\program\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D12A45E-026E-4499-8213-F333D7A77210}|program.vcxproj|C:\\Users\\Administrator\\Desktop\\program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2D12A45E-026E-4499-8213-F333D7A77210}|program.vcxproj|C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2D12A45E-026E-4499-8213-F333D7A77210}|program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A3C223-0049-4C37-A7DC-98AABE4F76EF}|..\\Class3th (Bit)\\Class3th (Bit).vcxproj|C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class3th (Bit)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +17,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class3th (Bit)\\source.c",
+              "RelativeDocumentMoniker": "..\\Class3th (Bit)\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class3th (Bit)\\source.c",
+              "RelativeToolTip": "..\\Class3th (Bit)\\source.c",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-15T12:15:47.222Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "source.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\program\\source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\program\\source.c",
               "RelativeDocumentMoniker": "source.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\program\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\program\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-10T12:22:13.245Z",
               "EditorCaption": ""
