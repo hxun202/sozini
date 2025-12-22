@@ -9,9 +9,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class3th (Bit)", "..\Class3
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class4th (Overflow&Underflow)", "..\Class4th (Overflow&Underflow)\Class4th (Overflow&Underflow).vcxproj", "{27CD9483-A2BF-4F1C-B35A-23BFAC721F8F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 5th", "..\Class 4th\Class 4th.vcxproj", "{343FA9B8-4B07-48D6-86FB-2498917809B5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class5th", "..\Class 4th\Class 4th.vcxproj", "{343FA9B8-4B07-48D6-86FB-2498917809B5}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class6th (Iteration Statement)", "..\Class6th (Iteration Statement)\Class6th (Iteration Statement).vcxproj", "{AE301E4F-2489-4030-A3CC-C9ABA4E50417}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class7th (type Conversion)", "..\Class7th (type Conversion)\Class7th (type Conversion).vcxproj", "{E3475D35-3B50-4671-8A40-B9AE0C3C5F52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,14 @@ Global
 		{AE301E4F-2489-4030-A3CC-C9ABA4E50417}.Release|x64.Build.0 = Release|x64
 		{AE301E4F-2489-4030-A3CC-C9ABA4E50417}.Release|x86.ActiveCfg = Release|Win32
 		{AE301E4F-2489-4030-A3CC-C9ABA4E50417}.Release|x86.Build.0 = Release|Win32
+		{E3475D35-3B50-4671-8A40-B9AE0C3C5F52}.Debug|x64.ActiveCfg = Debug|x64
+		{E3475D35-3B50-4671-8A40-B9AE0C3C5F52}.Debug|x64.Build.0 = Debug|x64
+		{E3475D35-3B50-4671-8A40-B9AE0C3C5F52}.Debug|x86.ActiveCfg = Debug|Win32
+		{E3475D35-3B50-4671-8A40-B9AE0C3C5F52}.Debug|x86.Build.0 = Debug|Win32
+		{E3475D35-3B50-4671-8A40-B9AE0C3C5F52}.Release|x64.ActiveCfg = Release|x64
+		{E3475D35-3B50-4671-8A40-B9AE0C3C5F52}.Release|x64.Build.0 = Release|x64
+		{E3475D35-3B50-4671-8A40-B9AE0C3C5F52}.Release|x86.ActiveCfg = Release|Win32
+		{E3475D35-3B50-4671-8A40-B9AE0C3C5F52}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

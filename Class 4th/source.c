@@ -153,7 +153,6 @@ void main()
     int x = 5;
     int y = 3;
 
-    char x = 0;
 
     switch (x)
     {
