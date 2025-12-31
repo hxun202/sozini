@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{2D12A45E-026E-4499-8213-F333D7A77210}|program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7C735F69-8E17-40EF-82E4-76D7A2570FF0}|..\\Class10th (function)\\Class10th (function).vcxproj|C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class10th (function)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B05BD085-F5B8-4B51-AC1D-6027F8453A93}|..\\Class9th (Array)\\Class9th (Array).vcxproj|C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class9th (Array)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -35,63 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "stdio.h",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
-              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
-              "ViewState": "AgIAAHECAAAAAAAAAAD4v4UCAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-30T11:35:47.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "source.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class9th (Array)\\source.c",
-              "RelativeDocumentMoniker": "..\\Class9th (Array)\\source.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class9th (Array)\\source.c",
-              "RelativeToolTip": "..\\Class9th (Array)\\source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-29T11:06:27.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "source.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class7th (type Conversion)\\source.c",
-              "RelativeDocumentMoniker": "..\\Class7th (type Conversion)\\source.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class7th (type Conversion)\\source.c",
-              "RelativeToolTip": "..\\Class7th (type Conversion)\\source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-22T11:04:11.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "source.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class8th (pointer)\\source.c",
-              "RelativeDocumentMoniker": "..\\Class8th (pointer)\\source.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class8th (pointer)\\source.c",
-              "RelativeToolTip": "..\\Class8th (pointer)\\source.c",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAAAJMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-24T11:27:14.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class 4th\\source.c",
               "RelativeDocumentMoniker": "..\\Class 4th\\source.c",
@@ -99,12 +50,72 @@
               "RelativeToolTip": "..\\Class 4th\\source.c",
               "ViewState": "AgIAAGEAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-19T11:01:50.957Z",
+              "WhenOpened": "2025-12-19T11:01:50.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class10th (function)\\source.c",
+              "RelativeDocumentMoniker": "..\\Class10th (function)\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class10th (function)\\source.c",
+              "RelativeToolTip": "..\\Class10th (function)\\source.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-31T12:09:17.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "ViewState": "AgIAAHECAAAAAAAAAAD4v4UCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-30T11:35:47.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class9th (Array)\\source.c",
+              "RelativeDocumentMoniker": "..\\Class9th (Array)\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class9th (Array)\\source.c",
+              "RelativeToolTip": "..\\Class9th (Array)\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-29T11:06:27.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class7th (type Conversion)\\source.c",
+              "RelativeDocumentMoniker": "..\\Class7th (type Conversion)\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class7th (type Conversion)\\source.c",
+              "RelativeToolTip": "..\\Class7th (type Conversion)\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-22T11:04:11.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class8th (pointer)\\source.c",
+              "RelativeDocumentMoniker": "..\\Class8th (pointer)\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class8th (pointer)\\source.c",
+              "RelativeToolTip": "..\\Class8th (pointer)\\source.c",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAJMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-24T11:27:14.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class4th (Overflow\u0026Underflow)\\source.c",
               "RelativeDocumentMoniker": "..\\Class4th (Overflow\u0026Underflow)\\source.c",
@@ -112,12 +123,11 @@
               "RelativeToolTip": "..\\Class4th (Overflow\u0026Underflow)\\source.c",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-16T11:45:17.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-16T11:45:17.502Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\Class3th (Bit)\\source.c",
               "RelativeDocumentMoniker": "..\\Class3th (Bit)\\source.c",
@@ -125,8 +135,7 @@
               "RelativeToolTip": "..\\Class3th (Bit)\\source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-15T12:15:47.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T12:15:47.222Z"
             },
             {
               "$type": "Document",
@@ -136,7 +145,7 @@
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\\uCF54\uB529\uC218\uC5C5\\sozini\\program\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-10T12:22:13.245Z",
               "EditorCaption": ""
